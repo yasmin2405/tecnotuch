@@ -1,2 +1,2 @@
-# tecnotuch
-site
+# tecnotuchtuch
+Estudo de JavaScript.
